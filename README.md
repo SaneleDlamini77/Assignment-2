@@ -1,7 +1,7 @@
 # Assignment-2
 # Flashcard Quiz App
 
-![Flashcard Quiz App Screenshots](screenshots/screenshot.png)
+https://youtube.com/shorts/ho_KYCQSKfs?feature=share
 
 A native Android app built with Kotlin that helps users study with flashcards. The app presents true/false questions, loops through each flashcard, and provides a score based on the user's answers.
 
